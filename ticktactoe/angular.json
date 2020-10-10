@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ticktactoe"
+    }
+  },
+  "defaultProject": "ticktactoe",
+  "cli": {
+    "analytics": "2bcf98e0-dec5-44dd-a07e-f32e23b6cd56"
+  }
 }
