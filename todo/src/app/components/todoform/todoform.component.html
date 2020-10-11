@@ -1,0 +1,16 @@
+<div class="input-group mb-3">
+    <input type="text" 
+    class="form-control" 
+    placeholder="Enter the task to do" 
+    aria-label="Enter the task to do" 
+    aria-describedby="basic-addon2"
+    [(ngModel)] = "Task"
+    >
+    <div class="input-group-append">
+      <button class="btn btn-primary"
+      (click) = "addTodo()"
+      >
+      Add
+      </button>
+    </div>
+  </div>
