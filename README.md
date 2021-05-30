@@ -1,4 +1,4 @@
-# AngularBootCamp
+# Angular - Demo
 
 Install node modules
 -----------------------
